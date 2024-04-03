@@ -2,4 +2,5 @@ Hello there!
 
 This info has been added using Fork!
 
+This should brake when rebase!
 This should break!
